@@ -1,0 +1,11 @@
+C:\Users\TECH EVO\Desktop\BakuExpressCargo\BakuExpressCargo.Domain\bin\Debug\net8.0\BakuExpressCargo.Domain.deps.json
+C:\Users\TECH EVO\Desktop\BakuExpressCargo\BakuExpressCargo.Domain\bin\Debug\net8.0\BakuExpressCargo.Domain.dll
+C:\Users\TECH EVO\Desktop\BakuExpressCargo\BakuExpressCargo.Domain\bin\Debug\net8.0\BakuExpressCargo.Domain.pdb
+C:\Users\TECH EVO\Desktop\BakuExpressCargo\BakuExpressCargo.Domain\obj\Debug\net8.0\BakuExpressCargo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECH EVO\Desktop\BakuExpressCargo\BakuExpressCargo.Domain\obj\Debug\net8.0\BakuExpressCargo.Domain.AssemblyInfoInputs.cache
+C:\Users\TECH EVO\Desktop\BakuExpressCargo\BakuExpressCargo.Domain\obj\Debug\net8.0\BakuExpressCargo.Domain.AssemblyInfo.cs
+C:\Users\TECH EVO\Desktop\BakuExpressCargo\BakuExpressCargo.Domain\obj\Debug\net8.0\BakuExpressCargo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\TECH EVO\Desktop\BakuExpressCargo\BakuExpressCargo.Domain\obj\Debug\net8.0\BakuExpressCargo.Domain.dll
+C:\Users\TECH EVO\Desktop\BakuExpressCargo\BakuExpressCargo.Domain\obj\Debug\net8.0\refint\BakuExpressCargo.Domain.dll
+C:\Users\TECH EVO\Desktop\BakuExpressCargo\BakuExpressCargo.Domain\obj\Debug\net8.0\BakuExpressCargo.Domain.pdb
+C:\Users\TECH EVO\Desktop\BakuExpressCargo\BakuExpressCargo.Domain\obj\Debug\net8.0\ref\BakuExpressCargo.Domain.dll

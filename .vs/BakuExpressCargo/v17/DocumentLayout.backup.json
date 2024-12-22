@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4015A8-1B79-464B-8382-4699B5EBF574}|BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.infrastructure\\persistence\\entities\\eventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4015A8-1B79-464B-8382-4699B5EBF574}|BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj|solutionrelative:bakuexpresscargo.infrastructure\\persistence\\entities\\eventstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4015A8-1B79-464B-8382-4699B5EBF574}|BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.infrastructure\\persistence\\configurations\\eventstoreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4015A8-1B79-464B-8382-4699B5EBF574}|BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj|solutionrelative:bakuexpresscargo.infrastructure\\persistence\\configurations\\eventstoreconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B594D33-5E57-4A34-AB40-9AA34B715CC6}|BakuExpressCargo.Domain\\BakuExpressCargo.Domain.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.domain\\shared\\domainevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B594D33-5E57-4A34-AB40-9AA34B715CC6}|BakuExpressCargo.Domain\\BakuExpressCargo.Domain.csproj|solutionrelative:bakuexpresscargo.domain\\shared\\domainevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4015A8-1B79-464B-8382-4699B5EBF574}|BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.infrastructure\\bakuexpresscargo.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A4015A8-1B79-464B-8382-4699B5EBF574}|BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj|solutionrelative:bakuexpresscargo.infrastructure\\bakuexpresscargo.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4015A8-1B79-464B-8382-4699B5EBF574}|BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.infrastructure\\eventstore\\eventstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4015A8-1B79-464B-8382-4699B5EBF574}|BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj|solutionrelative:bakuexpresscargo.infrastructure\\eventstore\\eventstoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4015A8-1B79-464B-8382-4699B5EBF574}|BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.infrastructure\\persistence\\configurations\\packageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4015A8-1B79-464B-8382-4699B5EBF574}|BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj|solutionrelative:bakuexpresscargo.infrastructure\\persistence\\configurations\\packageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4015A8-1B79-464B-8382-4699B5EBF574}|BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4015A8-1B79-464B-8382-4699B5EBF574}|BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj|solutionrelative:bakuexpresscargo.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|solutionrelative:bakuexpresscargo.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|solutionrelative:bakuexpresscargo.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.application\\dtos\\packagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|solutionrelative:bakuexpresscargo.application\\dtos\\packagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.application\\behaviours\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|solutionrelative:bakuexpresscargo.application\\behaviours\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.application\\behaviours\\eventprocessingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|solutionrelative:bakuexpresscargo.application\\behaviours\\eventprocessingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.application\\events\\eventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|solutionrelative:bakuexpresscargo.application\\events\\eventprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B594D33-5E57-4A34-AB40-9AA34B715CC6}|BakuExpressCargo.Domain\\BakuExpressCargo.Domain.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.domain\\bakuexpresscargo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B594D33-5E57-4A34-AB40-9AA34B715CC6}|BakuExpressCargo.Domain\\BakuExpressCargo.Domain.csproj|solutionrelative:bakuexpresscargo.domain\\bakuexpresscargo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.application\\bakuexpresscargo.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|solutionrelative:bakuexpresscargo.application\\bakuexpresscargo.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E6EEEF7-719A-4329-A152-80A59AEDA123}|BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj|solutionrelative:bakuexpresscargo.application\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B594D33-5E57-4A34-AB40-9AA34B715CC6}|BakuExpressCargo.Domain\\BakuExpressCargo.Domain.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.domain\\entities\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B594D33-5E57-4A34-AB40-9AA34B715CC6}|BakuExpressCargo.Domain\\BakuExpressCargo.Domain.csproj|solutionrelative:bakuexpresscargo.domain\\entities\\package.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B594D33-5E57-4A34-AB40-9AA34B715CC6}|BakuExpressCargo.Domain\\BakuExpressCargo.Domain.csproj|c:\\users\\tech evo\\desktop\\bakuexpresscargo\\bakuexpresscargo.domain\\shared\\packagedeliveredevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B594D33-5E57-4A34-AB40-9AA34B715CC6}|BakuExpressCargo.Domain\\BakuExpressCargo.Domain.csproj|solutionrelative:bakuexpresscargo.domain\\shared\\packagedeliveredevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainEvents.cs",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Domain\\Shared\\DomainEvents.cs",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Domain\\Shared\\DomainEvents.cs",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Domain\\Shared\\DomainEvents.cs",
+              "RelativeToolTip": "BakuExpressCargo.Domain\\Shared\\DomainEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:26:02.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventStore.cs",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Infrastructure\\Persistence\\Entities\\EventStore.cs",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Infrastructure\\Persistence\\Entities\\EventStore.cs",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Infrastructure\\Persistence\\Entities\\EventStore.cs",
+              "RelativeToolTip": "BakuExpressCargo.Infrastructure\\Persistence\\Entities\\EventStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:22:35.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventStoreService.cs",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Infrastructure\\EventStore\\EventStoreService.cs",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Infrastructure\\EventStore\\EventStoreService.cs",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Infrastructure\\EventStore\\EventStoreService.cs",
+              "RelativeToolTip": "BakuExpressCargo.Infrastructure\\EventStore\\EventStoreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:12:32.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventStoreConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Infrastructure\\Persistence\\Configurations\\EventStoreConfiguration.cs",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Infrastructure\\Persistence\\Configurations\\EventStoreConfiguration.cs",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Infrastructure\\Persistence\\Configurations\\EventStoreConfiguration.cs",
+              "RelativeToolTip": "BakuExpressCargo.Infrastructure\\Persistence\\Configurations\\EventStoreConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:11:41.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PackageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Infrastructure\\Persistence\\Configurations\\PackageConfiguration.cs",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Infrastructure\\Persistence\\Configurations\\PackageConfiguration.cs",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Infrastructure\\Persistence\\Configurations\\PackageConfiguration.cs",
+              "RelativeToolTip": "BakuExpressCargo.Infrastructure\\Persistence\\Configurations\\PackageConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:11:27.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BakuExpressCargo.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T21:09:45.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BakuExpressCargo.Application",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj",
+              "RelativeToolTip": "BakuExpressCargo.Application\\BakuExpressCargo.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T20:56:31.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BakuExpressCargo.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj",
+              "RelativeToolTip": "BakuExpressCargo.Infrastructure\\BakuExpressCargo.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T20:56:22.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BakuExpressCargo.Domain",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Domain\\BakuExpressCargo.Domain.csproj",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Domain\\BakuExpressCargo.Domain.csproj",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Domain\\BakuExpressCargo.Domain.csproj",
+              "RelativeToolTip": "BakuExpressCargo.Domain\\BakuExpressCargo.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T20:56:19.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Application\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "BakuExpressCargo.Application\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:54:26.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Application\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "BakuExpressCargo.Application\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:54:21.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PackageDto.cs",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\DTOs\\PackageDto.cs",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Application\\DTOs\\PackageDto.cs",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\DTOs\\PackageDto.cs",
+              "RelativeToolTip": "BakuExpressCargo.Application\\DTOs\\PackageDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:54:15.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\Behaviours\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Application\\Behaviours\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\Behaviours\\ValidationBehavior.cs",
+              "RelativeToolTip": "BakuExpressCargo.Application\\Behaviours\\ValidationBehavior.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:54:11.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Package.cs",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Domain\\Entities\\Package.cs",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Domain\\Entities\\Package.cs",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Domain\\Entities\\Package.cs",
+              "RelativeToolTip": "BakuExpressCargo.Domain\\Entities\\Package.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:54:06.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventProcessingBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\Behaviours\\EventProcessingBehavior.cs",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Application\\Behaviours\\EventProcessingBehavior.cs",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\Behaviours\\EventProcessingBehavior.cs",
+              "RelativeToolTip": "BakuExpressCargo.Application\\Behaviours\\EventProcessingBehavior.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:52:28.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\ApplicationServiceRegistration.cs",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Application\\ApplicationServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\ApplicationServiceRegistration.cs",
+              "RelativeToolTip": "BakuExpressCargo.Application\\ApplicationServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:51:55.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PackageDeliveredEvent.cs",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Domain\\Shared\\PackageDeliveredEvent.cs",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Domain\\Shared\\PackageDeliveredEvent.cs",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Domain\\Shared\\PackageDeliveredEvent.cs",
+              "RelativeToolTip": "BakuExpressCargo.Domain\\Shared\\PackageDeliveredEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:50:34.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\Events\\EventProcessor.cs",
+              "RelativeDocumentMoniker": "BakuExpressCargo.Application\\Events\\EventProcessor.cs",
+              "ToolTip": "C:\\Users\\TECH EVO\\Desktop\\BakuExpressCargo\\BakuExpressCargo.Application\\Events\\EventProcessor.cs",
+              "RelativeToolTip": "BakuExpressCargo.Application\\Events\\EventProcessor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA5wBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:49:21.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
